@@ -1,0 +1,23 @@
+# Konfigurasi lokal
+.env
+.env.local
+.env.*.local
+
+# Log
+*.log
+logs/
+error_log
+
+# Berkas sementara
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Editor dan sistem operasi
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
